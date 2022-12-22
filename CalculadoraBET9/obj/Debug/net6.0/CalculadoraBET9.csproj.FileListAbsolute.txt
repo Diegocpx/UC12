@@ -1,0 +1,12 @@
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\bin\Debug\net6.0\CalculadoraBET9.deps.json
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\bin\Debug\net6.0\CalculadoraBET9.dll
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\bin\Debug\net6.0\CalculadoraBET9.pdb
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\CalculadoraBET9.csproj.AssemblyReference.cache
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\CalculadoraBET9.GeneratedMSBuildEditorConfig.editorconfig
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\CalculadoraBET9.AssemblyInfoInputs.cache
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\CalculadoraBET9.AssemblyInfo.cs
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\CalculadoraBET9.csproj.CoreCompileInputs.cache
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\CalculadoraBET9.dll
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\refint\CalculadoraBET9.dll
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\CalculadoraBET9.pdb
+D:\#SENAI - PROGRAMADOR BACK-END\12 - Teste Back-End\Trabalhos\CalculadoraBET9\obj\Debug\net6.0\ref\CalculadoraBET9.dll
